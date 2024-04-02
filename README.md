@@ -11,7 +11,7 @@ and provides the following features:
 2. Content is retrieved dynamically directly from the specs and you don't need to rebuild.
 3. Adding new pages comes down to adding metadata for the pages you want.
 
-![View the specs!](https://opencontainers.github.io/specs.opencontainers.org/)
+[View the specs!](https://specs.opencontainers.org/)
 
 ## Usage
 
